@@ -1,4 +1,4 @@
-@media (max-width: 900px) {
+@media (max-width: 1050px) {
     .dropdown {
         position: relative;
         display: inline-block;
@@ -52,7 +52,7 @@
 }
 
 
-@media (min-width: 901px) {
+@media (min-width: 1051px) {
 
     nav menu {
         display: flex;
@@ -148,6 +148,7 @@ li {
 .box1 {
     padding-top: 5%;
     background-color: rgb(218, 218, 218);
+    padding-bottom: 5%;
 }
 
 .benefits p {

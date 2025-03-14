@@ -6,7 +6,7 @@ const pathname = window.location.pathname;
  * Sets the navigation bar based on the page width.
  */
 function setNavBar(id, link, name) {
-    const condition = pageWidth > 900;
+    const condition = pageWidth > 1050;
     const contentDiv = document.getElementById(id);
     if (condition) {
         contentDiv.innerHTML = `
