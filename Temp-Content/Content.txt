@@ -1,6 +1,5 @@
 Content:
 
-
 Pro/Con Section:
   "Tall (6'3")"
   "Pilot"
@@ -14,21 +13,11 @@ Pro/Con Section:
 
 Image Gallery:
 
-Looking for In Applicants Section:
-  "This is an Undergraduate position"
-  "Proficient in providing emotional support" (Negotiable)
-  "BMI under 25.0" (Negotiable)
-  "Attractive" (Negotiable - Standards are low)
-  "Applicant is NOT a graduating Senior"
-
 What We Offer Section:
   "Flexible working hours"
   "Occasional comedy"
   "Exceptional job security (Trust me, there is no competition)"
   "Easy application process"
-
-Friend Reviews:
-  "INSERT REVIEW HERE"
 
 Compensation Section"
   "Please note that this is an *Unpaid* Position."
