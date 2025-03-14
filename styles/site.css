@@ -1,0 +1,10 @@
+@media (max-width: 800px) {
+    /*Change Nav Menu to a dropdown*/
+}
+
+@media (min-width: 801px) {
+    .flexcontainer {
+        display: flex;
+        flex-direction: row;
+    }
+}

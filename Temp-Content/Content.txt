@@ -17,14 +17,14 @@ Image Gallery:
 Looking for In Applicants Section:
   "This is an Undergraduate position"
   "Proficient in providing emotional support" (Negotiable)
-  "BMI under ___" (Negotiable)
+  "BMI under 25.0" (Negotiable)
   "Attractive" (Negotiable - Standards are low)
   "Applicant is NOT a graduating Senior"
 
 What We Offer Section:
-  "Flexible Working hours"
-  "Occasional Comedy"
-  "VERY GOOD JOB SECURITY (Trust me, there is no competition)"
+  "Flexible working hours"
+  "Occasional comedy"
+  "Exceptional job security (Trust me, there is no competition)"
   "Easy application process"
 
 Friend Reviews:
