@@ -6,8 +6,8 @@
     
     .dropbtn {
         padding: 10px 20px;
-        font-size: 16px;
-        min-width: 150px;
+        font-size: 42px;
+        min-width: 300px;
         border: none;
         background-color: #007BFF;
         color: white;
@@ -28,6 +28,7 @@
         padding: 12px 16px;
         text-decoration: none;
         display: block;
+        font-size: 42px;
     }
     
     .dropdown-content a:hover {
